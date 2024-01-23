@@ -1,3 +1,4 @@
+/* do you like this better, GitHub?*/
 SELECT
 	Nothing
 FROM
