@@ -2,7 +2,7 @@
 CREATE TABLE IF NOT EXISTS combined_table AS SELECT * FROM "202212-divvy-tripdata" WHERE 0;
 
 /*  Insert data into the new table  */
-INSERT INTO combined_table SELECT * FROM "202212-divvy-tripdata"; /*  One onth of bike trip data  */
+INSERT INTO combined_table SELECT * FROM "202212-divvy-tripdata"; /*  One month of bike trip data  */
 INSERT INTO combined_table SELECT * FROM "202301-divvy-tripdata";
 INSERT INTO combined_table SELECT * FROM "202302-divvy-tripdata";
 INSERT INTO combined_table SELECT * FROM "202303-divvy-tripdata";
