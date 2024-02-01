@@ -2,7 +2,7 @@
 DROP TABLE "202212-divvy-tripdata";
 DROP TABLE "202301-divvy-tripdata";
 DROP TABLE "202302-divvy-tripdata";
-DROP TABLE "202303-divvy-tripdata"
+DROP TABLE "202303-divvy-tripdata";
 DROP TABLE "202304-divvy-tripdata";
 DROP TABLE "202305-divvy-tripdata";
 DROP TABLE "202306-divvy-tripdata";
