@@ -1,4 +1,4 @@
-/*  Create a new table with the same structure as table "202212-divvy-tripdata"  */
+/*  Create a new tabl with the same structure as table "202212-divvy-tripdata"  */
 CREATE TABLE IF NOT EXISTS combined_table AS SELECT * FROM "202212-divvy-tripdata" WHERE 0;
 
 /*  Insert data into the new table  */
