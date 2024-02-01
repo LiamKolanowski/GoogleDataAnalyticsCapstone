@@ -1,5 +1,5 @@
 /*  Create new table with more readable field names, and new fields for future data  */
-CREATE TABLE IF NOT EXISTS Cyclistic_Data (
+CREATE TABLE IF NOT EXISTS cyclistic_data (
     Ride_ID INTEGER PRIMARY KEY,
     Bike_Type TEXT,
     Member_Type TEXT,
