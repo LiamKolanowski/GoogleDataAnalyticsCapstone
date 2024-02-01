@@ -1,4 +1,4 @@
-/*  Create a new table called "cyclistic_data" 
+/*  Create a new table called "cyclistic_data 
     containing more readable field names 
     as well as new fields for future data,
     and populate this new table with data from the old table, "combined_table" */
