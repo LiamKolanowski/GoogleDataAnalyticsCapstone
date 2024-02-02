@@ -1,5 +1,5 @@
 /*  Fill Season column with an identifying string  */
-UPDATE cyclistic_dat
+UPDATE cyclistic_data
 SET Season = 
     CASE 
         WHEN strftime('%m', Started_Datetime) IN ('12', '01', '02') THEN 'Winter'
