@@ -1,4 +1,4 @@
-/*  Fill season column with identifying strings  */
+/*  Fill Season column with identifying strings  */
 UPDATE cyclistic_data
 SET Season = 
     CASE 
