@@ -1,5 +1,5 @@
 /*  Fill Day_Of_Week column with an identifying string  */
-UPDATE cyclistic_dat
+UPDATE cyclistic_data
 SET Day_Of_Week = 
     CASE 
         WHEN strftime('%w', Started_Datetime) = '0' THEN 'Sunday'
