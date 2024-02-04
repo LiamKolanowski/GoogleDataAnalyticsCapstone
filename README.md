@@ -11,4 +11,5 @@
 
 * **This code utilizes SQL compatible with DB Browser for SQLite**
 
-## Code Walkthrough
+## Code Organization
+The SQL cleaning code is organized in a systematic manner, with each file named alphabetically and corresponding to a chronological step in the data cleaning process. For instance, combine_tables.sql contains the code for the initial step, and subsequent files follow the same pattern in chronological order.
