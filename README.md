@@ -7,7 +7,7 @@
 
 ## Project Info
 
-* To view the entire project, please view **"1. Case study: How does a bike-share navigate speedy success?"** [here](https://liamkolanowski.wixsite.com/myportfolio)
+* To view the entire project, please visit [the projects page](https://liamkolanowski.wixsite.com/myportfolio)
 
 * **This code utilizes SQL compatible with DB Browser for SQLite**
 
